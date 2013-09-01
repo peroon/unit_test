@@ -1,0 +1,7 @@
+{
+	"framework" : "jasmine",
+	"src_files" : [
+		"scripts/myfunc.js",
+		"tests/test-myfunc.js"
+	]
+}
